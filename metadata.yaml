@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13243#In-the-Palace-of-the-King--A-Love-Story-of-Old-Madrid
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-08-21'
 gutenberg_type: Text
